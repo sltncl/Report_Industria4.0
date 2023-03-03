@@ -1,6 +1,9 @@
 # Report_Industria4.0
 
-La repository Report_Industria4.0 è così strutturata:
-- Una cartella Risorse, contiene tutti i dataset utilizzati per l'analisi.
-- Una cartella Script, contiene gli script utilizzati per la manipolazione dei dati e la creazione dei grafici.
-- Un file Infografica.pdf, riassume l'indagine che è stata condotta.
+La presente repository, denominata "Report_Industria4.0", è organizzata in tre sezioni principali:
+
+- La cartella "Risorse" contiene tutti i dataset utilizzati per l'analisi;
+- La cartella "Script" comprende gli script utilizzati per la manipolazione dei dati e la creazione dei grafici;
+- Il file "Infografica.pdf" rappresenta una sintesi dell'indagine condotta.
+
+Tale suddivisione, accuratamente strutturata, consente un agevole accesso ai dati, alle analisi svolte e ai risultati ottenuti.
